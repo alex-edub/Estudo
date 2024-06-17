@@ -1,1 +1,16 @@
-
+Git Bach
+Git init
+git status
+git branch
+git checkout -b 
+git checkout -b "nome que quiser:desenvolvimento"
+git remote add origin /caminho/para/o/repositório
+git checkout -b nomedabrand
+git config -- global user.name "nome"
+git config --global user.email "email"
+git checkout master
+touch index.html
+git and index.html
+git commit -m "Criei um index.html"
+git checkout -b main
+git add index.html
