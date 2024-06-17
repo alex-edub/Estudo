@@ -4,6 +4,7 @@ git status
 git branch
 git checkout -b 
 git checkout -b "nome que quiser:desenvolvimento"
+git branch "nome que eu quero"
 git remote add origin /caminho/para/o/repositório
 git checkout -b nomedabrand
 git config -- global user.name "nome"
@@ -26,10 +27,14 @@ git remote add origin https://github.com/alex-edub/Aula-9.git
 git branch -M main
 git push -u origin main
 git status on branch main
-
 _______________________________________
 
 #Meu primeiro commit
 git add . ou "nome do arquivo"
 git commit -m "o que eu fiz"
 git push origin main
+
+_______________
+Merge
+git checkout main
+git merge "Nome do branch"
