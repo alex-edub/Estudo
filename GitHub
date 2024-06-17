@@ -14,3 +14,22 @@ git and index.html
 git commit -m "Criei um index.html"
 git checkout -b main
 git add index.html
+-------------------------
+no visual studio code
+git remote add origin C:\Users\alex0394\Documents\Alex
+git remote -v 
+origin https://github.com/gildembert/aula-09 (fetch)
+origin https://github.com/gildembert/aula-09 (push)
+git checkout -b main
+git pull git
+git remote add origin https://github.com/alex-edub/Aula-9.git
+git branch -M main
+git push -u origin main
+git status on branch main
+
+_______________________________________
+
+#Meu primeiro commit
+git add . ou "nome do arquivo"
+git commit -m "o que eu fiz"
+git push origin main
