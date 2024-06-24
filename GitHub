@@ -44,3 +44,4 @@ pull request > para outra pessoa autorizar a subida do arquivo
 issues - cria na plataforma github - uma solicitação de erro / melhoria
 rebase - voltar a versão anterior
 git branch -d "nome da branch" - exclui a branch
+git clone https://github.com/alex-edub/aula-git.git   --- clonar repositório
