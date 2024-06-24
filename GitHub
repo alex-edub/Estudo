@@ -22,7 +22,7 @@ git remote -v
 origin https://github.com/gildembert/aula-09 (fetch)
 origin https://github.com/gildembert/aula-09 (push)
 git checkout -b main
-git pull git
+git pull origin "nome da branch" - para atualizar a branch e descer os arquivos da equipe para minha máquina local
 git remote add origin https://github.com/alex-edub/Aula-9.git
 git branch -M main
 git push -u origin main
@@ -38,3 +38,9 @@ _______________
 Merge
 git checkout main
 git merge "Nome do branch"
+
+_________________
+pull request > para outra pessoa autorizar a subida do arquivo
+issues - cria na plataforma github - uma solicitação de erro / melhoria
+rebase - voltar a versão anterior
+git branch -d "nome da branch" - exclui a branch
