@@ -1,7 +1,7 @@
 Git Bach
 Git init
 git status
-git branch
+git branch (ver as branch do projeto)
 git checkout -b 
 git checkout -b "nome que quiser:desenvolvimento"
 git branch "nome que eu quero"
@@ -9,11 +9,11 @@ git remote add origin /caminho/para/o/repositório
 git checkout -b nomedabrand
 git config -- global user.name "nome"
 git config --global user.email "email"
-git checkout master
+git checkout master (ou o nome da branch, navega entre as branch)
 touch index.html
 git and index.html
 git commit -m "Criei um index.html"
-git checkout -b main
+git checkout -b main (main=nome da branch)
 git add index.html
 -------------------------
 no visual studio code
@@ -36,8 +36,8 @@ git push origin main
 
 _______________
 Merge
-git checkout main
-git merge "Nome do branch"
+git checkout main (minha principal)
+git merge "Nome do branch"  (junta com outra branch)
 
 _________________
 pull request > para outra pessoa autorizar a subida do arquivo
