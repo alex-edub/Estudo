@@ -6,7 +6,7 @@ git checkout -b
 git checkout -b "nome que quiser:desenvolvimento"
 git branch "nome que eu quero"
 git remote add origin /caminho/para/o/repositório
-git checkout -b nomedabrand
+git checkout -b nomedabrand 
 git config -- global user.name "nome"
 git config --global user.email "email"
 git checkout master (ou o nome da branch, navega entre as branch)
