@@ -45,3 +45,14 @@ issues - cria na plataforma github - uma solicitação de erro / melhoria
 rebase - voltar a versão anterior
 git branch -d "nome da branch" - exclui a branch
 git clone https://github.com/alex-edub/aula-git.git   --- clonar repositório
+
+__________________
+no terminal:
+
+git init 
+git add . 
+git commit -m "primeiro commit"
+git branch -M main 
+git remote add origin (junto com o link do repositório) 
+git push -u origin main 
+
