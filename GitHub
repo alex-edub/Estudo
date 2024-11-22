@@ -47,7 +47,7 @@ git branch -d "nome da branch" - exclui a branch
 git clone https://github.com/alex-edub/aula-git.git   --- clonar repositório
 
 __________________
-no terminal:
+no terminal git bash:
 
 git init 
 git add . 
